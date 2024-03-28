@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class EmpappConfig(AppConfig):
+class EmpapiConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "empapp"
+    name = "empapi"
